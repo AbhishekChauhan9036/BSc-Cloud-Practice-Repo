@@ -29,3 +29,5 @@ Guidelines for contributing to the project, including how to submit issues and p
 ## License
 
 Information about the project's license.
+
+Yoo Yoo
