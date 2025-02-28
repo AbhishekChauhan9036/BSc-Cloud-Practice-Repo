@@ -19,7 +19,11 @@ Provide a brief introduction to the project here. Explain what the project does,
 Instructions on how to set up the project locally, including prerequisites, installation steps, and configuration.
 
 ## Usage
-
+2. *Acceptable Use*  
+   You shall not:  
+   - Use the Service for any illegal, harmful, or unauthorized activities.  
+   - Attempt to reverse-engineer, modify, or disrupt the Service.  
+   - Exceed the allocated usage limits or abuse system resources.
 Examples and explanations on how to use the project.
 
 ## Contributing
